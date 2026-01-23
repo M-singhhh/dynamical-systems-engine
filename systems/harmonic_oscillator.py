@@ -1,0 +1,1 @@
+#In this file i will do physics related work and particularly in this one i will do harmonic oscillator work

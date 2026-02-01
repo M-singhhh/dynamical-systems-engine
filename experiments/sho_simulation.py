@@ -1,6 +1,5 @@
 #This is the file i will be using to simulate stuffs
 
-
 import sys
 import os
 
